@@ -26,7 +26,8 @@ Act as a Data Analyst for a non-profit organization on a mission to reduce defor
 * Understand the tradeoffs between relational databases and their non-relational counterparts, and justify which one is best for different scenarios. 
 * With a radical shift of paradigms, learn about MongoDB and Redis to get an understanding of the differences in behaviors and requirements for non-relational databases.
 
-* **Project: Udiddit, A Social News Aggregator**
+
+### Project 2: Udiddit, A Social News Aggregator
 
 Build the supporting data structure for Udiddit (similar to Reddit), a social media news aggregator site. Design a new, normalized and performant database and migrate over data from the previously poorly designed database.
 
