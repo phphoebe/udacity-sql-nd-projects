@@ -11,7 +11,7 @@ When it comes to extracting insights from stored data, SQL is one of the most ve
 * Clean data, optimize SQL queries, and write select advanced JOINs to enhance analysis performance. 
 * Explain which cases to use particular SQL commands, and apply the results from queries to address business problems.
 
-### Project 1: Deforestation Exploration
+### [Project 1: Deforestation Exploration](https://github.com/phphoebe/udacity-sql-nd-projects/tree/master/Project%201-Deforestation%20Exploration)
 
 Act as a Data Analyst for a non-profit organization on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
 * Prepare and disseminate a report for the executive team to help understand the global deforestation overview between 1990 and 2016. 
