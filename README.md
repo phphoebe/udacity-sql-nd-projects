@@ -1,11 +1,8 @@
 # Udacity SQL Nanodegree 
-Master SQL, the core language for Big Data analysis, and enable insight-driven decision-making and strategy for your business.
-
-**[Program Syllabus](https://github.com/phphoebe/udacity-sql-nd-projects/blob/master/SQL%2BNanodegree%2BProgram%2BSyllabus.pdf) - More information about this program can be found by visiting [Udacity Learn SQL ND](https://www.udacity.com/course/learn-sql--nd072).**
+Master SQL, the core language for Big Data analysis, and enable insight-driven decision-making and strategy for business.
 
 ### Part 1 - Introduction to SQL
 
-When it comes to extracting insights from stored data, SQL is one of the most versatile tools available. 
 * Execute core SQL commands to define, select, manipulate, control access, aggregate and join data and data tables. 
 * Understand when and how to use subqueries, several window functions, as well as partitions to complete complex tasks. 
 * Clean data, optimize SQL queries, and write select advanced JOINs to enhance analysis performance. 
@@ -32,3 +29,5 @@ Act as a Data Analyst for a non-profit organization on a mission to reduce defor
 Build the supporting data structure for Udiddit (similar to Reddit), a social media news aggregator site. Design a new, normalized and performant database and migrate over data from the previously poorly designed database.
 
 Working on the second part of the course :chart_with_upwards_trend:
+
+**[Program Syllabus](https://github.com/phphoebe/udacity-sql-nd-projects/blob/master/SQL%2BNanodegree%2BProgram%2BSyllabus.pdf) - More information about this program can be found by visiting [Udacity Learn SQL ND](https://www.udacity.com/course/learn-sql--nd072).**
