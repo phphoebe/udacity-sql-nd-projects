@@ -11,7 +11,7 @@ Master SQL, the core language for Big Data analysis, and enable insight-driven d
 ### [Project 1: Deforestation Exploration](https://github.com/phphoebe/udacity-sql-nd-projects/tree/master/Project%201-Deforestation%20Exploration)
 
 Act as a Data Analyst for a non-profit organization on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
-* Prepare and disseminate a report for the executive team to help understand the global deforestation overview between 1990 and 2016. 
+* Prepare and disseminate a report for the executive team to understand the global deforestation overview between 1990 and 2016. 
 * Identifying the most concerning regions and countries experiencing severe drop in forest area to determine where to concentrate efforts to combat deforestation.
 
 
