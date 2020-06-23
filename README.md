@@ -6,7 +6,7 @@ Master SQL, the core language for Big Data analysis, and enable insight-driven d
 * Execute core SQL commands to define, select, manipulate, control access, aggregate and join data tables. 
 * Understand when and how to use subqueries, window functions, as well as partitions to complete complex tasks. 
 * Clean data, optimize SQL queries, and write select advanced JOINs to enhance analysis performance. 
-* Explain which cases to use particular SQL commands, and apply the results from queries to address business problems.
+* Explain which cases to use particular SQL commands, and apply query results to address business problems.
 
 ### [Project 1: Deforestation Exploration](https://github.com/phphoebe/udacity-sql-nd-projects/tree/master/Project%201-Deforestation%20Exploration)
 
